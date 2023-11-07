@@ -1,0 +1,11 @@
+export const PrimaryWhite = '#fff';
+export const PrimaryGrey = '#727682';
+export const PrimaryBlue = '#6231AD';
+export const SecondaryGrey = '#EEEAF3';
+export const TernaryGrey = '#EEEAF3';
+export const DarkGrey = '#4F4F4F';
+export const SecondaryGreen = '#48C547';
+export const SecondaryRed = '#F73232';
+export const CardHeadingColor = '#333333';
+export const BottomTabActiveiconColor = '#6231AD';
+export const BottomTabInActiveiconColor = '#B5C0C8';
